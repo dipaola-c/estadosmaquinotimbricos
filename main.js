@@ -1,14 +1,14 @@
 function sound1() {
-    const player = new Tone.Player("https://raw.githubusercontent.com/dipaola-c/2.1-sonido-y-color-1/e9cd6b032118e9fa4fbe27b28d5ebeba383447fc/SOUND1.WAV").toDestination();
+    const player = new Tone.Player(audio/estado001.mp3).toDestination();
   player.autostart = true;
   }
   
   function sound2() {
-    const player = new Tone.Player("https://raw.githubusercontent.com/dipaola-c/2.1-sonido-y-color-1/e9cd6b032118e9fa4fbe27b28d5ebeba383447fc/SOUND104.WAV").toDestination();
+    const player = new Tone.Player(/audio/bandoneon_2_descriptor.wav).toDestination();
   player.autostart = true;
   }
   function sound3() {
-    const player = new Tone.Player("https://raw.githubusercontent.com/dipaola-c/2.1-sonido-y-color-1/e9cd6b032118e9fa4fbe27b28d5ebeba383447fc/SOUND105.WAV").toDestination();
+    const player = new Tone.Player(/audio/bandoneon_3_descriptor.wav).toDestination();
   player.autostart = true;
   }
   function sound4() {

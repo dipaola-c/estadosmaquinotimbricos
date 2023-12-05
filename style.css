@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: "courier";
+
     /*box-sizing: border-box;*/
   }
   
@@ -12,20 +14,23 @@
     flex-direction: column;
     align-items: center;
     align-content: center;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 50px;
   }
           
   button {
-    width: 30px;
-    height: 40px;
+    width: auto;
+    height: auto;
     border: solid black;
     border-radius: 8px;
-    margin: 3px;
-    padding: 7px;
+    margin: 10px;
+    padding: 10px;
     color: white;
     background-color: grey;
     border-right: 2px solid black;
     border-left: 2px solid black;
-    font-family: "courier";
     font-size: 1em;
     opacity: 0.3;/*va desde el 0 al 1*/
   }
@@ -33,8 +38,12 @@
   
   button:hover{
     opacity: 1;
-    border: 5px solid white;
+    border: 0.5px solid white;
     
+  }
+
+  .grande{
+    width: auto;
   }
 
   .parent {
@@ -45,7 +54,15 @@
     grid-row-gap: 0px;
     }
     
-    .div1 { grid-area: 1 / 1 / 2 / 6; }
-    .div2 { grid-area: 2 / 1 / 6 / 3; }
-    .div3 { grid-area: 2 / 3 / 6 / 5; }
-    .div4 { grid-area: 2 / 5 / 6 / 6; }
+    .div1 { grid-area: 1 / 1 / 2 / 6; 
+        margin:20px;
+    }
+    .div2 { grid-area: 2 / 1 / 6 / 3; 
+        margin:20px;
+    }
+    .div3 { grid-area: 2 / 3 / 6 / 5; 
+        margin:20px;
+    }
+    .div4 { grid-area: 2 / 5 / 6 / 6; 
+        margin:20px;
+    }
