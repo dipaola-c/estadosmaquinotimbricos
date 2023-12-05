@@ -1,196 +1,196 @@
 function sound1() {
-  const player = new Tone.Player("/audio/estado001.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado001.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound2() {
-  const player = new Tone.Player("/audio/estado-002.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-002.mp3").toDestination();
 player.autostart = true;
 }
 function sound3() {
-  const player = new Tone.Player("/audio/estado-003.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-003.mp3").toDestination();
 player.autostart = true;
 }
 function sound4() {
-  const player = new Tone.Player("/audio/estado-004.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-004.mp3").toDestination();
 player.autostart = true;
 }
 function sound5() {
-  const player = new Tone.Player("/audio/estado-005.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-005.mp3").toDestination();
 player.autostart = true;
 }
 function sound6() {
-  const player = new Tone.Player("/audio/estado-006.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-006.mp3").toDestination();
 player.autostart = true;
 }
 function sound7() {
-  const player = new Tone.Player("/audio/estado-007.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-007.mp3").toDestination();
 player.autostart = true;
 }
 function sound8() {
-  const player = new Tone.Player("/audio/estado-008.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-008.mp3").toDestination();
 player.autostart = true;
 }
 function sound9() {
-  const player = new Tone.Player("/audio/estado-009.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-009.mp3").toDestination();
 player.autostart = true;
 }
 function sound10() {
-  const player = new Tone.Player("/audio/estado-010.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-010.mp3").toDestination();
 player.autostart = true;
 }
 function sound11() {
-  const player = new Tone.Player("/audio/estado-011.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-011.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound12() {
-  const player = new Tone.Player("/audio/estado-012.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-012.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound13() {
-  const player = new Tone.Player("/audio/estado-013.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-013.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound14() {
-  const player = new Tone.Player("/audio/estado-014.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-014.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound15() {
-  const player = new Tone.Player("/audio/estado-015.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-015.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound16() {
-  const player = new Tone.Player("/audio/estado-016.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-016.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound17() {
-  const player = new Tone.Player("/audio/estado-017.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-017.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound18() {
-  const player = new Tone.Player("/audio/estado-018.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-018.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound19() {
-  const player = new Tone.Player("/audio/estado-019.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-019.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound20() {
-  const player = new Tone.Player("/audio/estado-020.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-020.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound21() {
-  const player = new Tone.Player("/audio/estado-021.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-021.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound22() {
-  const player = new Tone.Player("/audio/estado-022.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-022.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound23() {
-  const player = new Tone.Player("/audio/estado-023.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-023.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound24() {
-  const player = new Tone.Player("/audio/estado-024.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-024.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound25() {
-  const player = new Tone.Player("/audio/estado-025.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-025.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound26() {
-  const player = new Tone.Player("/audio/estado-026.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-026.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound27() {
-  const player = new Tone.Player("/audio/estado-027.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-027.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound28() {
-  const player = new Tone.Player("/audio/estado-028.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-028.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound29() {
-  const player = new Tone.Player("/audio/estado-029.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-029.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound30() {
-  const player = new Tone.Player("/audio/estado-030.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-030.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound31() {
-  const player = new Tone.Player("/audio/estado-031.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-031.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound32() {
-  const player = new Tone.Player("/audio/estado-032.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-032.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound33() {
-  const player = new Tone.Player("/audio/estado-033.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-033.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound34() {
-  const player = new Tone.Player("/audio/estado-034.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-034.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound35() {
-  const player = new Tone.Player("/audio/estado-035.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-035.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound36() {
-  const player = new Tone.Player("/audio/estado-036.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-036.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound37() {
-  const player = new Tone.Player("/audio/estado-037.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-037.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound38() {
-  const player = new Tone.Player("/audio/estado-038.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-038.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound39() {
-  const player = new Tone.Player("/audio/estado-039.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-039.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound40() {
-  const player = new Tone.Player("/audio/estado-041.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-041.mp3").toDestination();
 player.autostart = true;
 }
 
 function sound42() {
-  const player = new Tone.Player("/audio/estado-042.mp3").toDestination();
+  const player = new Tone.Player("./audio/estado-042.mp3").toDestination();
 player.autostart = true;
 }
 
